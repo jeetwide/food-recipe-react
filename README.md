@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+The backend used in this project is 
+https://developer.edamam.com/edamam-docs-recipe-api
+
 ## Available Scripts
 
 In the project directory, you can run:
